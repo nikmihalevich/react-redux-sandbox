@@ -1,6 +1,6 @@
 # React-Redux Sandbox
 
-Application for exercise with redux for example synchronous and asynchronous requests.
+Application for exercise with redux on the example of synchronous and asynchronous requests
 
 ## Installation
 
